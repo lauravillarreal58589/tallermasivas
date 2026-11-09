@@ -1,0 +1,21 @@
+﻿branch_id;city;country;region
+1;Bogota;Colombia;Andean
+2;Medellin;Colombia;Andean
+3;Cali;Colombia;Andean
+4;Quito;Ecuador;Andean
+5;Lima;Peru;Andean
+6;Arequipa;Peru;Andean
+7;Mexico City;Mexico;North America
+8;Guadalajara;Mexico;North America
+9;Monterrey;Mexico;North America
+10;Panama City;Panama;Central America
+11;San Jose;Costa Rica;Central America
+12;Guatemala City;Guatemala;Central America
+13;Santiago;Chile;Southern Cone
+14;Buenos Aires;Argentina;Southern Cone
+15;Cordoba;Argentina;Southern Cone
+16;Montevideo;Uruguay;Southern Cone
+17;Sao Paulo;Brazil;Brazil
+18;Rio de Janeiro;Brazil;Brazil
+19;Belo Horizonte;Brazil;Brazil
+20;Curitiba;Brazil;Brazil

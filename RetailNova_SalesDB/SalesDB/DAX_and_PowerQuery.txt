@@ -1,0 +1,85 @@
+=====================================================================
+ RetailNova Power BI Lab - DAX measures & Power Query snippets
+ (copy/paste each block into Power BI)
+=====================================================================
+
+---------------------------------------------------------------------
+PART 2 - Power Query (Transform Data)
+---------------------------------------------------------------------
+-- TotalRevenue (Sales query > Add Column > Custom Column)
+   New column name: TotalRevenue
+   Formula:         [quantity] * [unit_price]
+   Then set its type to Decimal Number.
+
+-- Calendar table (Home > New Source > Blank Query > Advanced Editor)
+let
+    Source     = List.Dates(#date(2024, 1, 1), 366, #duration(1, 0, 0, 0)),
+    ToTable    = Table.FromList(Source, Splitter.SplitByNothing(), {"Date"}),
+    Typed      = Table.TransformColumnTypes(ToTable, {{"Date", type date}}),
+    AddYear    = Table.AddColumn(Typed, "Year", each Date.Year([Date]), Int64.Type),
+    AddMonthNo = Table.AddColumn(AddYear, "MonthNumber", each Date.Month([Date]), Int64.Type),
+    AddMonth   = Table.AddColumn(AddMonthNo, "Month", each Date.ToText([Date], "MMM", "en-US"), type text),
+    AddWeekday = Table.AddColumn(AddMonth, "Weekday", each Date.ToText([Date], "ddd", "en-US"), type text)
+in
+    AddWeekday
+-- Rename the query to: Calendar
+-- (2024 is a leap year -> 366 days)
+
+-- Alternative: DAX calculated table (Modeling > New table)
+Calendar =
+ADDCOLUMNS (
+    CALENDAR ( DATE ( 2024, 1, 1 ), DATE ( 2024, 12, 31 ) ),
+    "Year", YEAR ( [Date] ),
+    "MonthNumber", MONTH ( [Date] ),
+    "Month", FORMAT ( [Date], "MMM" )
+)
+
+After creating it:  select Calendar > Table tools > Mark as date table (column Date)
+                    select Calendar[Month] > Column tools > Sort by column > MonthNumber
+
+---------------------------------------------------------------------
+PART 3 - Base measures (select the Sales table > New measure)
+---------------------------------------------------------------------
+Total Sales = SUM ( Sales[TotalRevenue] )
+
+Average Sales = AVERAGE ( Sales[TotalRevenue] )
+
+Sales Previous Month =
+CALCULATE ( [Total Sales], DATEADD ( Calendar[Date], -1, MONTH ) )
+
+Monthly Growth =
+DIVIDE ( [Total Sales] - [Sales Previous Month], [Sales Previous Month] )
+-- Format Monthly Growth as Percentage.
+-- If Power BI complains about Calendar[Date], write it as 'Calendar'[Date].
+-- (Same result as the formula in the workshop, written with a helper measure.)
+
+---------------------------------------------------------------------
+PART 5 - Additional measures
+---------------------------------------------------------------------
+Sales per Customer =
+DIVIDE ( [Total Sales], DISTINCTCOUNT ( Sales[customer_id] ) )
+
+Average Daily Sales =
+AVERAGEX ( VALUES ( Calendar[Date] ), [Total Sales] )
+
+-- Helper column so products have a readable name (Products table > New column)
+Product = Products[brand] & " " & Products[category] & " #" & Products[product_id]
+
+Product Rank =
+IF (
+    ISINSCOPE ( Products[Product] ),
+    RANKX ( ALL ( Products[Product] ), [Total Sales], , DESC, DENSE )
+)
+
+Top 10 Products Sales =
+VAR Top10 = TOPN ( 10, ALL ( Products[Product] ), [Total Sales], DESC )
+RETURN CALCULATE ( [Total Sales], KEEPFILTERS ( Top10 ) )
+-- Put Products[Product] + [Top 10 Products Sales] in a table/bar chart:
+-- only the 10 best products show a value (the rest are blank and hidden).
+
+Number of Customers = DISTINCTCOUNT ( Sales[customer_id] )
+
+---------------------------------------------------------------------
+PART 1 - Check query (SQL)
+---------------------------------------------------------------------
+SELECT COUNT(*) FROM Sales;   -- expected result: 10000

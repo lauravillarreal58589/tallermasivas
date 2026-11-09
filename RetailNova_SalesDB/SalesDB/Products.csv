@@ -1,0 +1,61 @@
+﻿product_id;category;brand
+1;Smartphones;Motorola
+2;Smartphones;Xiaomi
+3;Smartphones;Motorola
+4;Smartphones;Xiaomi
+5;Smartphones;Motorola
+6;Smartphones;Apple
+7;Smartphones;Xiaomi
+8;Smartphones;Apple
+9;Smartphones;Motorola
+10;Smartphones;Apple
+11;Laptops;Asus
+12;Laptops;Dell
+13;Laptops;Asus
+14;Laptops;HP
+15;Laptops;Asus
+16;Laptops;HP
+17;Laptops;Asus
+18;Laptops;HP
+19;TVs & Audio;JBL
+20;TVs & Audio;LG
+21;TVs & Audio;LG
+22;TVs & Audio;Sony
+23;TVs & Audio;Sony
+24;TVs & Audio;JBL
+25;TVs & Audio;Sony
+26;TVs & Audio;Samsung
+27;Home Appliances;Oster
+28;Home Appliances;Mabe
+29;Home Appliances;Mabe
+30;Home Appliances;Electrolux
+31;Home Appliances;Oster
+32;Home Appliances;Mabe
+33;Home Appliances;Mabe
+34;Home Appliances;Whirlpool
+35;Wearables;Garmin
+36;Wearables;Garmin
+37;Wearables;Garmin
+38;Wearables;Apple
+39;Wearables;Huawei
+40;Wearables;Xiaomi
+41;Wearables;Xiaomi
+42;Wearables;Xiaomi
+43;Accessories;Generic
+44;Accessories;Logitech
+45;Accessories;Belkin
+46;Accessories;Belkin
+47;Accessories;Generic
+48;Accessories;Anker
+49;Accessories;Anker
+50;Accessories;Anker
+51;Accessories;Logitech
+52;Accessories;Generic
+53;Home Goods;IKEA
+54;Home Goods;IKEA
+55;Home Goods;Corona
+56;Home Goods;IKEA
+57;Home Goods;Corona
+58;Home Goods;Corona
+59;Home Goods;Corona
+60;Home Goods;IKEA

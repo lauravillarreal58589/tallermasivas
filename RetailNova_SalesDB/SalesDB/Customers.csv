@@ -1,0 +1,501 @@
+﻿customer_id;name;segment;country
+22;Gabriela Gonzalez;Consumer;Brazil
+30;Isabella Ramirez;Consumer;Brazil
+34;Paula Silva;Consumer;Brazil
+37;Camila Flores;Consumer;Brazil
+48;Lucia Lopez;Consumer;Brazil
+53;Sofia Rojas;Consumer;Brazil
+54;Juliana Torres;Consumer;Brazil
+64;Isabella Vargas;Consumer;Brazil
+71;Luis Mendoza;Consumer;Brazil
+74;Santiago Vargas;Consumer;Brazil
+76;Laura Sanchez;Consumer;Brazil
+84;Daniela Sanchez;Consumer;Brazil
+95;Miguel Garcia;Consumer;Brazil
+96;Juan Ramirez;Consumer;Brazil
+97;Natalia Martinez;Consumer;Brazil
+100;Carlos Gomez;Consumer;Brazil
+107;Miguel Martinez;Consumer;Brazil
+113;Pedro Sanchez;Consumer;Brazil
+114;Pedro Gonzalez;Consumer;Brazil
+124;Ricardo Castro;Consumer;Brazil
+128;Tomas Rojas;Consumer;Brazil
+132;Ana Herrera;Consumer;Brazil
+133;Valentina Silva;Consumer;Brazil
+136;Maria Gonzalez;Consumer;Brazil
+142;Juan Morales;Consumer;Brazil
+144;Felipe Flores;Consumer;Brazil
+153;Felipe Vargas;Consumer;Brazil
+162;Lucia Rodriguez;Consumer;Brazil
+165;Andres Ortiz;Consumer;Brazil
+181;Isabella Ortiz;Consumer;Brazil
+186;Luis Vargas;Consumer;Brazil
+193;Valentina Diaz;Consumer;Brazil
+194;Natalia Rojas;Consumer;Brazil
+202;Pedro Morales;Consumer;Brazil
+222;Maria Martinez;Consumer;Brazil
+223;Gabriela Rodriguez;Consumer;Brazil
+244;Diego Lopez;Consumer;Brazil
+252;Miguel Sanchez;Consumer;Brazil
+254;Sebastian Gomez;Consumer;Brazil
+264;Maria Herrera;Consumer;Brazil
+270;Ana Sanchez;Consumer;Brazil
+276;Maria Rojas;Consumer;Brazil
+278;Ricardo Ortiz;Consumer;Brazil
+279;Jorge Garcia;Consumer;Brazil
+289;Luis Castro;Consumer;Brazil
+294;Camila Rodriguez;Consumer;Brazil
+304;Mateo Rivera;Consumer;Brazil
+307;Jorge Silva;Consumer;Brazil
+308;Luis Martinez;Consumer;Brazil
+310;Ricardo Vargas;Consumer;Brazil
+315;Mateo Gonzalez;Consumer;Brazil
+326;Camila Mendoza;Consumer;Brazil
+347;Juan Torres;Consumer;Brazil
+348;Mariana Gomez;Consumer;Brazil
+360;Juan Rojas;Consumer;Brazil
+362;Carlos Mendoza;Consumer;Brazil
+364;Miguel Rodriguez;Consumer;Brazil
+365;Laura Flores;Consumer;Brazil
+372;Lucia Torres;Consumer;Brazil
+389;Felipe Garcia;Consumer;Brazil
+392;Natalia Silva;Consumer;Brazil
+402;Mateo Morales;Consumer;Brazil
+413;Fernando Morales;Consumer;Brazil
+426;Carolina Diaz;Consumer;Brazil
+442;Carlos Morales;Consumer;Brazil
+447;Ana Garcia;Consumer;Brazil
+461;Ricardo Rodriguez;Consumer;Brazil
+475;Laura Martinez;Consumer;Brazil
+476;Juliana Herrera;Consumer;Brazil
+483;Sebastian Sanchez;Consumer;Brazil
+484;Jorge Rios;Consumer;Brazil
+490;Juliana Flores;Consumer;Brazil
+495;Carolina Castro;Consumer;Brazil
+498;Laura Martinez;Consumer;Brazil
+499;Andres Reyes;Consumer;Brazil
+1;Luis Lopez;Consumer;Guatemala
+2;Ricardo Sanchez;Consumer;Costa Rica
+3;Daniela Perez;Consumer;Colombia
+4;Daniela Silva;Consumer;Colombia
+6;Felipe Herrera;Consumer;Mexico
+9;Fernando Garcia;Consumer;Mexico
+11;Daniela Vargas;Consumer;Colombia
+13;Juliana Torres;Consumer;Mexico
+14;Ricardo Lopez;Consumer;Mexico
+17;Daniela Reyes;Consumer;Peru
+18;Juan Rodriguez;Consumer;Mexico
+19;Felipe Silva;Consumer;Peru
+20;Carlos Rodriguez;Consumer;Mexico
+23;Felipe Lopez;Consumer;Peru
+26;Gabriela Reyes;Consumer;Colombia
+29;Paula Diaz;Consumer;Mexico
+32;Diego Flores;Consumer;Peru
+35;Sofia Silva;Consumer;Chile
+38;Pedro Flores;Consumer;Peru
+40;Paula Rios;Consumer;Argentina
+42;Natalia Martinez;Consumer;Mexico
+43;Miguel Silva;Consumer;Mexico
+47;Sofia Diaz;Consumer;Mexico
+49;Juan Flores;Consumer;Mexico
+50;Mariana Diaz;Consumer;Mexico
+56;Sofia Gonzalez;Consumer;Mexico
+57;Ana Silva;Consumer;Ecuador
+58;Felipe Castro;Consumer;Colombia
+59;Camila Rios;Consumer;Chile
+60;Mateo Mendoza;Consumer;Costa Rica
+62;Paula Silva;Consumer;Peru
+63;Isabella Ortiz;Consumer;Colombia
+65;Daniela Rivera;Consumer;Ecuador
+66;Carlos Reyes;Consumer;Argentina
+70;Isabella Silva;Consumer;Chile
+73;Laura Torres;Consumer;Chile
+75;Luis Gomez;Consumer;Argentina
+77;Daniela Castro;Consumer;Argentina
+78;Miguel Ortiz;Consumer;Guatemala
+79;Felipe Sanchez;Consumer;Mexico
+80;Ana Morales;Consumer;Chile
+81;Andres Lopez;Consumer;Chile
+82;Laura Garcia;Consumer;Mexico
+83;Miguel Castro;Consumer;Colombia
+85;Fernando Reyes;Consumer;Colombia
+86;Daniela Ramirez;Consumer;Peru
+93;Andres Castro;Consumer;Peru
+101;Miguel Rojas;Consumer;Colombia
+102;Daniela Herrera;Consumer;Mexico
+104;Santiago Garcia;Consumer;Colombia
+106;Maria Rojas;Consumer;Mexico
+110;Ricardo Rojas;Consumer;Argentina
+118;Ricardo Gonzalez;Consumer;Chile
+119;Jorge Martinez;Consumer;Chile
+120;Valentina Gonzalez;Consumer;Colombia
+122;Natalia Rojas;Consumer;Costa Rica
+125;Andres Herrera;Consumer;Mexico
+127;Luis Flores;Consumer;Mexico
+129;Lucia Mendoza;Consumer;Costa Rica
+134;Maria Gonzalez;Consumer;Colombia
+135;Diego Torres;Consumer;Colombia
+137;Lucia Vargas;Consumer;Argentina
+139;Juan Perez;Consumer;Argentina
+140;Juliana Vargas;Consumer;Chile
+143;Maria Castro;Consumer;Mexico
+145;Luis Lopez;Consumer;Ecuador
+146;Tomas Martinez;Consumer;Mexico
+147;Carlos Lopez;Consumer;Chile
+150;Ana Flores;Consumer;Mexico
+154;Maria Flores;Consumer;Mexico
+156;Jorge Castro;Consumer;Panama
+157;Sebastian Gomez;Consumer;Mexico
+158;Fernando Rios;Consumer;Argentina
+159;Miguel Garcia;Consumer;Chile
+160;Gabriela Mendoza;Consumer;Ecuador
+161;Fernando Mendoza;Consumer;Colombia
+164;Carolina Garcia;Consumer;Costa Rica
+166;Sebastian Perez;Consumer;Guatemala
+167;Santiago Rodriguez;Consumer;Colombia
+168;Felipe Diaz;Consumer;Argentina
+169;Miguel Mendoza;Consumer;Mexico
+170;Juliana Gonzalez;Consumer;Mexico
+173;Lucia Perez;Consumer;Mexico
+174;Luis Diaz;Consumer;Peru
+178;Jorge Reyes;Consumer;Colombia
+179;Ana Torres;Consumer;Argentina
+183;Carlos Ortiz;Consumer;Mexico
+185;Juliana Rodriguez;Consumer;Mexico
+187;Sebastian Reyes;Consumer;Argentina
+188;Maria Lopez;Consumer;Argentina
+189;Lucia Martinez;Consumer;Mexico
+192;Daniela Lopez;Consumer;Colombia
+196;Pedro Garcia;Consumer;Panama
+197;Ana Rojas;Consumer;Ecuador
+200;Sofia Flores;Consumer;Mexico
+201;Valentina Herrera;Consumer;Colombia
+206;Juan Torres;Consumer;Colombia
+207;Felipe Torres;Consumer;Argentina
+209;Carolina Gomez;Consumer;Ecuador
+210;Felipe Sanchez;Consumer;Mexico
+215;Miguel Gomez;Consumer;Mexico
+216;Diego Mendoza;Consumer;Colombia
+217;Maria Rodriguez;Consumer;Uruguay
+219;Maria Martinez;Consumer;Argentina
+224;Sebastian Torres;Consumer;Argentina
+225;Juliana Lopez;Consumer;Mexico
+226;Mateo Rivera;Consumer;Mexico
+227;Daniela Reyes;Consumer;Mexico
+228;Maria Silva;Consumer;Argentina
+231;Andres Diaz;Consumer;Argentina
+233;Felipe Torres;Consumer;Colombia
+234;Lucia Reyes;Consumer;Mexico
+235;Miguel Mendoza;Consumer;Mexico
+236;Juliana Flores;Consumer;Colombia
+240;Paula Garcia;Consumer;Peru
+242;Luis Silva;Consumer;Colombia
+246;Ricardo Rivera;Consumer;Panama
+247;Miguel Gomez;Consumer;Uruguay
+248;Ricardo Diaz;Consumer;Colombia
+250;Sebastian Rios;Consumer;Mexico
+253;Pedro Ortiz;Consumer;Peru
+256;Valentina Ramirez;Consumer;Colombia
+257;Daniela Ortiz;Consumer;Colombia
+260;Juan Flores;Consumer;Argentina
+261;Mariana Flores;Consumer;Peru
+262;Laura Gomez;Consumer;Guatemala
+265;Lucia Rivera;Consumer;Colombia
+267;Felipe Reyes;Consumer;Ecuador
+268;Isabella Herrera;Consumer;Ecuador
+269;Fernando Rivera;Consumer;Mexico
+272;Natalia Mendoza;Consumer;Mexico
+274;Juliana Silva;Consumer;Peru
+275;Pedro Flores;Consumer;Guatemala
+280;Maria Lopez;Consumer;Chile
+282;Maria Vargas;Consumer;Argentina
+284;Isabella Lopez;Consumer;Colombia
+285;Natalia Flores;Consumer;Mexico
+287;Daniela Torres;Consumer;Ecuador
+290;Miguel Garcia;Consumer;Mexico
+293;Mateo Gonzalez;Consumer;Colombia
+295;Natalia Reyes;Consumer;Guatemala
+296;Mariana Garcia;Consumer;Argentina
+297;Paula Torres;Consumer;Chile
+298;Natalia Ramirez;Consumer;Costa Rica
+299;Sebastian Sanchez;Consumer;Ecuador
+300;Ana Reyes;Consumer;Guatemala
+303;Juan Rios;Consumer;Guatemala
+306;Valentina Sanchez;Consumer;Colombia
+309;Sebastian Morales;Consumer;Argentina
+311;Tomas Lopez;Consumer;Colombia
+313;Diego Ramirez;Consumer;Chile
+314;Carolina Rivera;Consumer;Colombia
+317;Camila Torres;Consumer;Argentina
+319;Juliana Vargas;Consumer;Colombia
+321;Mariana Perez;Consumer;Colombia
+323;Ana Vargas;Consumer;Mexico
+325;Maria Rojas;Consumer;Mexico
+327;Mateo Lopez;Consumer;Colombia
+328;Sebastian Vargas;Consumer;Colombia
+329;Lucia Vargas;Consumer;Colombia
+332;Natalia Vargas;Consumer;Argentina
+333;Carlos Gonzalez;Consumer;Colombia
+335;Ricardo Vargas;Consumer;Colombia
+336;Juan Vargas;Consumer;Peru
+337;Carolina Rodriguez;Consumer;Mexico
+338;Tomas Ortiz;Consumer;Colombia
+339;Diego Martinez;Consumer;Peru
+343;Santiago Rojas;Consumer;Argentina
+349;Mariana Martinez;Consumer;Panama
+350;Felipe Perez;Consumer;Costa Rica
+351;Paula Silva;Consumer;Colombia
+352;Luis Reyes;Consumer;Peru
+353;Sebastian Morales;Consumer;Chile
+356;Luis Rivera;Consumer;Argentina
+357;Juan Ortiz;Consumer;Chile
+361;Mariana Silva;Consumer;Colombia
+363;Juliana Reyes;Consumer;Peru
+367;Andres Morales;Consumer;Uruguay
+368;Daniela Reyes;Consumer;Mexico
+369;Miguel Martinez;Consumer;Mexico
+371;Maria Herrera;Consumer;Costa Rica
+373;Mariana Garcia;Consumer;Mexico
+374;Maria Reyes;Consumer;Ecuador
+376;Paula Castro;Consumer;Chile
+378;Sebastian Silva;Consumer;Colombia
+379;Camila Vargas;Consumer;Peru
+381;Santiago Herrera;Consumer;Colombia
+382;Carolina Vargas;Consumer;Mexico
+385;Juliana Rodriguez;Consumer;Panama
+386;Carlos Rivera;Consumer;Colombia
+390;Gabriela Ramirez;Consumer;Chile
+391;Carlos Silva;Consumer;Peru
+393;Sebastian Garcia;Consumer;Guatemala
+394;Santiago Perez;Consumer;Colombia
+395;Pedro Mendoza;Consumer;Colombia
+397;Felipe Garcia;Consumer;Mexico
+398;Mariana Rivera;Consumer;Peru
+400;Pedro Rios;Consumer;Mexico
+401;Sebastian Ortiz;Consumer;Colombia
+403;Sofia Vargas;Consumer;Mexico
+405;Santiago Vargas;Consumer;Argentina
+406;Camila Rodriguez;Consumer;Mexico
+409;Jorge Rodriguez;Consumer;Argentina
+410;Luis Rojas;Consumer;Argentina
+411;Jorge Ramirez;Consumer;Argentina
+414;Andres Martinez;Consumer;Mexico
+415;Laura Vargas;Consumer;Peru
+416;Fernando Diaz;Consumer;Mexico
+417;Camila Martinez;Consumer;Panama
+419;Paula Herrera;Consumer;Argentina
+420;Gabriela Torres;Consumer;Mexico
+423;Isabella Silva;Consumer;Guatemala
+424;Camila Rios;Consumer;Guatemala
+425;Maria Rios;Consumer;Colombia
+428;Santiago Garcia;Consumer;Peru
+429;Paula Rojas;Consumer;Costa Rica
+431;Ana Castro;Consumer;Argentina
+434;Carolina Ramirez;Consumer;Panama
+436;Laura Perez;Consumer;Uruguay
+439;Mateo Martinez;Consumer;Argentina
+440;Paula Diaz;Consumer;Colombia
+443;Juan Rojas;Consumer;Colombia
+444;Tomas Lopez;Consumer;Chile
+446;Juan Gomez;Consumer;Peru
+448;Camila Rodriguez;Consumer;Mexico
+450;Ricardo Rojas;Consumer;Peru
+451;Fernando Perez;Consumer;Colombia
+455;Carlos Rios;Consumer;Argentina
+456;Diego Gomez;Consumer;Colombia
+460;Carlos Gomez;Consumer;Ecuador
+462;Juliana Perez;Consumer;Colombia
+465;Andres Lopez;Consumer;Colombia
+469;Diego Rojas;Consumer;Colombia
+473;Paula Ramirez;Consumer;Peru
+474;Paula Mendoza;Consumer;Peru
+478;Natalia Ramirez;Consumer;Colombia
+480;Luis Gonzalez;Consumer;Chile
+482;Daniela Castro;Consumer;Mexico
+485;Daniela Sanchez;Consumer;Panama
+486;Maria Mendoza;Consumer;Colombia
+489;Juliana Torres;Consumer;Colombia
+491;Laura Rivera;Consumer;Peru
+493;Miguel Rojas;Consumer;Colombia
+496;Ana Gomez;Consumer;Colombia
+497;Juan Lopez;Consumer;Peru
+5;Sanchez Corp;Corporate;Ecuador
+8;Gomez Corp;Corporate;Mexico
+10;Reyes Trading;Corporate;Uruguay
+12;Reyes Ltda;Corporate;Argentina
+15;Martinez S.A.S.;Corporate;Brazil
+24;Torres Corp;Corporate;Costa Rica
+25;Garcia Solutions;Corporate;Brazil
+27;Silva S.A.S.;Corporate;Colombia
+28;Torres Solutions;Corporate;Chile
+31;Gomez S.A.S.;Corporate;Colombia
+33;Sanchez Corp;Corporate;Guatemala
+36;Gonzalez Group;Corporate;Colombia
+41;Gonzalez Group;Corporate;Colombia
+44;Castro S.A.S.;Corporate;Peru
+45;Perez S.A.S.;Corporate;Mexico
+46;Martinez Corp;Corporate;Brazil
+52;Vargas S.A.S.;Corporate;Argentina
+67;Martinez Trading;Corporate;Peru
+68;Morales S.A.S.;Corporate;Colombia
+69;Ramirez Trading;Corporate;Guatemala
+72;Ortiz Trading;Corporate;Brazil
+87;Morales Trading;Corporate;Guatemala
+88;Torres Group;Corporate;Colombia
+90;Herrera Solutions;Corporate;Colombia
+91;Torres Trading;Corporate;Colombia
+92;Castro Trading;Corporate;Brazil
+94;Reyes S.A.S.;Corporate;Mexico
+98;Rodriguez Ltda;Corporate;Peru
+99;Gomez Group;Corporate;Colombia
+103;Mendoza S.A.S.;Corporate;Mexico
+108;Perez Trading;Corporate;Colombia
+111;Castro Corp;Corporate;Colombia
+112;Silva Trading;Corporate;Mexico
+115;Ramirez Trading;Corporate;Colombia
+116;Perez Corp;Corporate;Colombia
+121;Lopez Solutions;Corporate;Ecuador
+123;Ortiz Ltda;Corporate;Peru
+131;Morales Trading;Corporate;Colombia
+138;Mendoza S.A.S.;Corporate;Panama
+141;Rivera Trading;Corporate;Mexico
+148;Vargas S.A.S.;Corporate;Panama
+151;Diaz Ltda;Corporate;Argentina
+155;Perez Trading;Corporate;Mexico
+163;Morales Solutions;Corporate;Mexico
+171;Rios Group;Corporate;Costa Rica
+184;Flores Ltda;Corporate;Mexico
+190;Rojas Trading;Corporate;Colombia
+191;Herrera Group;Corporate;Peru
+198;Rodriguez Group;Corporate;Peru
+204;Garcia Group;Corporate;Colombia
+205;Mendoza Group;Corporate;Mexico
+208;Rodriguez S.A.S.;Corporate;Ecuador
+213;Flores Corp;Corporate;Mexico
+218;Gomez Corp;Corporate;Mexico
+220;Mendoza Ltda;Corporate;Colombia
+221;Ramirez Group;Corporate;Argentina
+229;Morales Group;Corporate;Brazil
+230;Perez S.A.S.;Corporate;Brazil
+232;Morales Group;Corporate;Colombia
+239;Torres S.A.S.;Corporate;Mexico
+245;Rivera Trading;Corporate;Peru
+249;Gomez Group;Corporate;Mexico
+255;Garcia Corp;Corporate;Brazil
+258;Diaz Group;Corporate;Brazil
+263;Perez Corp;Corporate;Mexico
+266;Morales Group;Corporate;Peru
+273;Rodriguez Group;Corporate;Brazil
+277;Flores Group;Corporate;Brazil
+281;Silva Corp;Corporate;Ecuador
+292;Reyes Solutions;Corporate;Colombia
+312;Lopez Solutions;Corporate;Brazil
+316;Diaz Trading;Corporate;Argentina
+320;Lopez S.A.S.;Corporate;Peru
+322;Herrera S.A.S.;Corporate;Mexico
+340;Rojas Solutions;Corporate;Colombia
+344;Vargas Group;Corporate;Peru
+346;Vargas S.A.S.;Corporate;Panama
+354;Herrera S.A.S.;Corporate;Panama
+355;Lopez Solutions;Corporate;Mexico
+358;Reyes Ltda;Corporate;Brazil
+366;Garcia Trading;Corporate;Costa Rica
+370;Sanchez Solutions;Corporate;Peru
+375;Gonzalez Solutions;Corporate;Brazil
+380;Flores Group;Corporate;Brazil
+383;Mendoza S.A.S.;Corporate;Mexico
+384;Ortiz Corp;Corporate;Panama
+387;Silva Trading;Corporate;Peru
+404;Vargas Trading;Corporate;Mexico
+407;Diaz Solutions;Corporate;Brazil
+408;Ortiz Corp;Corporate;Costa Rica
+412;Martinez Group;Corporate;Costa Rica
+422;Silva Group;Corporate;Mexico
+430;Herrera Solutions;Corporate;Colombia
+432;Rodriguez Corp;Corporate;Mexico
+435;Castro Solutions;Corporate;Panama
+438;Herrera S.A.S.;Corporate;Chile
+445;Herrera S.A.S.;Corporate;Colombia
+452;Morales Solutions;Corporate;Peru
+453;Ortiz Group;Corporate;Brazil
+458;Torres Solutions;Corporate;Brazil
+459;Mendoza Corp;Corporate;Mexico
+463;Morales Solutions;Corporate;Chile
+467;Reyes Solutions;Corporate;Mexico
+471;Castro Solutions;Corporate;Guatemala
+472;Torres Trading;Corporate;Ecuador
+479;Reyes Ltda;Corporate;Mexico
+487;Martinez Corp;Corporate;Colombia
+488;Gomez Trading;Corporate;Colombia
+494;Castro Corp;Corporate;Brazil
+7;Perez Ltda;Small Business;Colombia
+16;Flores Ltda;Small Business;Colombia
+21;Torres S.A.S.;Small Business;Brazil
+39;Ortiz Ltda;Small Business;Peru
+51;Rivera Corp;Small Business;Chile
+55;Gonzalez Trading;Small Business;Colombia
+61;Silva Group;Small Business;Mexico
+89;Gomez Group;Small Business;Chile
+105;Gomez Corp;Small Business;Argentina
+109;Sanchez S.A.S.;Small Business;Colombia
+117;Silva Group;Small Business;Mexico
+126;Garcia Solutions;Small Business;Colombia
+130;Morales Ltda;Small Business;Colombia
+149;Herrera Solutions;Small Business;Colombia
+152;Castro Trading;Small Business;Mexico
+172;Gomez Corp;Small Business;Peru
+175;Rios Ltda;Small Business;Ecuador
+176;Martinez S.A.S.;Small Business;Brazil
+177;Torres S.A.S.;Small Business;Chile
+180;Rodriguez S.A.S.;Small Business;Colombia
+182;Garcia Trading;Small Business;Panama
+195;Rodriguez Ltda;Small Business;Colombia
+199;Rivera S.A.S.;Small Business;Colombia
+203;Ortiz Trading;Small Business;Guatemala
+211;Diaz Ltda;Small Business;Argentina
+212;Vargas Ltda;Small Business;Peru
+214;Lopez Ltda;Small Business;Peru
+237;Morales Trading;Small Business;Mexico
+238;Herrera Trading;Small Business;Mexico
+241;Diaz Group;Small Business;Brazil
+243;Diaz Ltda;Small Business;Peru
+251;Sanchez Trading;Small Business;Brazil
+259;Ramirez Trading;Small Business;Argentina
+271;Martinez S.A.S.;Small Business;Colombia
+283;Sanchez Trading;Small Business;Argentina
+286;Silva Solutions;Small Business;Argentina
+288;Rojas Ltda;Small Business;Colombia
+291;Ortiz Trading;Small Business;Peru
+301;Herrera Group;Small Business;Mexico
+302;Rodriguez Solutions;Small Business;Mexico
+305;Sanchez S.A.S.;Small Business;Colombia
+318;Ortiz Ltda;Small Business;Brazil
+324;Torres Ltda;Small Business;Mexico
+330;Morales Corp;Small Business;Mexico
+331;Garcia Solutions;Small Business;Brazil
+334;Perez Ltda;Small Business;Colombia
+341;Morales Group;Small Business;Brazil
+342;Gonzalez Corp;Small Business;Costa Rica
+345;Lopez Trading;Small Business;Peru
+359;Sanchez Trading;Small Business;Colombia
+377;Reyes S.A.S.;Small Business;Peru
+388;Garcia S.A.S.;Small Business;Costa Rica
+396;Martinez Corp;Small Business;Colombia
+399;Rivera Ltda;Small Business;Colombia
+418;Morales Solutions;Small Business;Brazil
+421;Gonzalez Corp;Small Business;Brazil
+427;Rivera Corp;Small Business;Ecuador
+433;Rios Corp;Small Business;Colombia
+437;Vargas Ltda;Small Business;Argentina
+441;Ortiz Group;Small Business;Uruguay
+449;Ortiz Corp;Small Business;Ecuador
+454;Reyes Trading;Small Business;Brazil
+457;Gomez Corp;Small Business;Brazil
+464;Rivera Group;Small Business;Argentina
+466;Torres Solutions;Small Business;Peru
+468;Gomez Trading;Small Business;Costa Rica
+470;Herrera Corp;Small Business;Brazil
+477;Gonzalez Ltda;Small Business;Mexico
+481;Morales Corp;Small Business;Mexico
+492;Diaz S.A.S.;Small Business;Mexico
+500;Martinez Solutions;Small Business;Colombia
